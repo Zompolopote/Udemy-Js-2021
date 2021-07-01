@@ -1,10 +1,9 @@
 
 
 
-var edad;
 var mensaje;
 
-edad = parseInt(prompt('Introduce tu edad: ', 'Edad'));
+var edad = parseInt(prompt('Introduce tu edad: ', 'Edad'));
 
 // if(edad<18){
 //     mensaje = "Eres menor de edad";
