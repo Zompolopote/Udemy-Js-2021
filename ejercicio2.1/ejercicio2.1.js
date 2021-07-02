@@ -44,12 +44,6 @@ if(numero1 == numero2) {
 
 
 
-
-
-
-
-
-
 /*
 do {
     
